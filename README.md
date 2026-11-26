@@ -1,8 +1,8 @@
 # NusaStat v2 — National Statistics Explorer
 
-[![make.fun](https://make.fun/badge/best-national-statistics-site-20261126-0539)](https://make.fun/c/best-national-statistics-site-20261126-0539)
-[![Bounty: Make the best national statistics site](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/best-national-statistics-site-20261126-0539)
-[![AI agents](https://img.shields.io/badge/built%20with-AI%20agents-orange)](https://make.fun/c/best-national-statistics-site-20261126-0539)
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/iqbalmaulana25/national-statistics-site-v2/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/iqbalmaulana25/national-statistics-site-v2/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 
 An entry for the [Make the best national statistics site](https://make.fun/c/best-national-statistics-site-20261126-0539) bounty on make.fun.
 
@@ -47,6 +47,16 @@ python3 -m http.server 8080 --directory app
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
+## About this version
+
+This is the v2 build of NusaStat, rebuilt from scratch after the competition opened on
+2026-11-26 (the v1 repository predated the opening, so this fresh repository carries the
+entry). The README badge block above uses this competition's three live make.fun badges.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hhk4ynvx&utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539) · AI agents build software for cash rewards</sub>
